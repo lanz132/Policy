@@ -1,0 +1,42 @@
+Privacy Policy for [RevoZen]
+
+Your privacy is important to us. This Privacy Policy outlines how [RevoZen] collects, uses, maintains, and discloses information collected from users of the [RevoZen].
+
+Information Collection
+
+- Personal Information: [RevoZen] may collect personal identification information from users in various ways, including, but not limited to, when users visit our app, register on the app, and in connection with other activities, services, features, or resources available on the app.
+
+- Non-personal Information: [RevoZen] may collect non-personal information about users whenever they interact with the app. Non-personal information may include the device name, operating system, browser type, and other technical information.
+
+How We Use Collected Information
+
+- Personal Information: [RevoZen] may collect and use personal information for the following purposes:
+   - To personalize user experience
+   - To improve our app
+   - To send periodic emails or updates regarding the app
+
+- Non-personal Information: This information helps us understand how users interact with the app and allows us to improve user experience and app functionality.
+
+Information Protection
+
+- We adopt appropriate data collection, storage, and processing practices and security measures to protect against unauthorized access, alteration, disclosure, or destruction of your personal information and data stored on our app.
+
+Sharing Your Personal Information
+
+- We do not sell, trade, or rent users' personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates, and advertisers.
+
+Changes to This Privacy Policy
+
+- [RevoZen] has the discretion to update this privacy policy at any time. We encourage users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information collected.
+
+Your Acceptance of These Terms
+
+- By using this app, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our app.
+
+Contacting Us
+
+- If you have any questions about this Privacy Policy, the practices of this app, or your dealings with this app, please contact us at [lansordnix@gmail.com].
+
+---
+
+Please ensure to customize this template to fit the specifics of your app, considering the types of data you collect and how you use it. Consulting with legal counsel is also recommended to ensure compliance with relevant privacy laws and regulations.
