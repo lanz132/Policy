@@ -1,0 +1,59 @@
+
+Effective Date: 11/20/2024
+
+At Tiktok Video Downloader we respect and value the privacy of our users. This Privacy Policy outlines how we collect, use, and protect your personal information when you use the TikTok Video Downloader app. By using the App, you consent to the practices described in this policy.
+
+1. Information We Collect
+
+We may collect the following types of information when you use the App:
+
+- Non-personally identifiable information (Non-PII): This may include technical data, such as the device model, operating system version, language settings, and usage data (e.g., how often the app is used, pages visited, etc.).
+  
+- App Permissions: We may request access to your device's storage to allow you to save downloaded videos. We do not request any other sensitive permissions.
+
+- Third-party data: We do not collect any personal data from your TikTok account or other social media accounts. All downloads are made by entering video URLs, and we do not store or track the URLs.
+
+2. How We Use Your Information
+
+We may use the information we collect for the following purposes:
+
+- To provide and improve the functionality of the App.
+- To ensure the proper operation of the App and to troubleshoot any issues.
+- To analyze usage patterns and improve user experience.
+- To communicate with you about updates, new features, or support requests.
+
+3. Data Sharing and Disclosure
+
+We do not sell, rent, or share your personal information with third parties, except in the following circumstances:
+
+- Service Providers: We may share non-personally identifiable information with trusted third-party service providers that assist us in operating the App (e.g., analytics services). These third parties are obligated to keep your information confidential and use it only for the services they provide to us.
+  
+- Legal Compliance: We may disclose your information if required by law or to protect our rights, comply with legal obligations, or respond to claims.
+
+4. Data Security
+
+We take reasonable precautions to protect the information you provide. However, no method of transmission over the Internet or electronic storage is 100% secure. While we strive to protect your information, we cannot guarantee its absolute security.
+
+5. Your Rights and Choices
+
+- Access and Update: You have the right to access and update the information we hold about you. Since we do not collect personal data beyond basic device information, most data is not stored.
+  
+- Opt-Out: You can opt out of receiving promotional communications from us by following the unsubscribe instructions in any emails we send.
+
+- Data Deletion: As we do not store personal data or information about the videos you download, once a video is downloaded, no trace of the file or any associated metadata is stored in our servers.
+
+6. Children’s Privacy
+
+The App is not intended for use by individuals under the age of 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe that we may have collected personal information from a child under 13, please contact us immediately, and we will take steps to delete such information.
+
+7. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. When we do, we will post the revised policy with an updated effective date. We encourage you to review this Privacy Policy periodically to stay informed about how we are protecting your information.
+
+8. Contact Us
+
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
+
+lansordnix@gmail.com 
+Philipines Cebu
+
