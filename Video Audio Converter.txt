@@ -1,0 +1,24 @@
+Privacy Policy for Audio and Video Converter
+
+Last updated: 11/28/24
+
+1. Information We Collect
+We do not collect any personal information. The App only collects non-personal data, such as device information (e.g., device type and OS) and usage data (e.g., features used, conversion activity).
+
+2. How We Use Your Information
+The data we collect is used solely to improve the App's performance and user experience. Your files are processed locally on your device and are not uploaded or stored by us.
+
+3. Permissions
+The App may request access to storage on your device to save and convert media files. We do not access personal data such as contacts, messages, or location.
+
+4. Data Security
+Your data and files are not shared or stored. All conversions are done offline and are private to your device.
+
+5. Children’s Privacy
+The App is not intended for children under 13. We do not knowingly collect data from children.
+
+6. Changes to This Policy
+We may update this Privacy Policy occasionally. If we make significant changes, we will notify you within the App.
+
+7. Contact Us
+If you have any questions, please contact us at: +63307836433
